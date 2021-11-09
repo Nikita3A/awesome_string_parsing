@@ -1,1 +1,2 @@
 # awesome_string_parsing
+The package has one function. The function gets string and print to console the number of vowels and consonants also print the length of the string. After all, the function returns an array with numbers that were printed.
